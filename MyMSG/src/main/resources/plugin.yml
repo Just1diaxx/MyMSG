@@ -1,0 +1,8 @@
+name: MyMSG
+version: '1.0-SNAPSHOT'
+main: org.justt.myMSG.MyMSG
+api-version: '1.20'
+
+commands:
+  msg:
+    description: "Send a message to another player."

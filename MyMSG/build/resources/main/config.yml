@@ -1,0 +1,7 @@
+# MyMSG Configuration
+
+format_sender: "&b[&eMSG&b] &f(to %player%) &8-> &7%message%"
+format_receiver: "&b[&eMSG&b] &f(by %player%) &8-> &7%message%"
+msg_usage: "&cUsage: /msg <player> <message>"
+player_not_online: "&cThe specified player isn't online."
+same_player: "&cYou cannot send a message to yourself!"
